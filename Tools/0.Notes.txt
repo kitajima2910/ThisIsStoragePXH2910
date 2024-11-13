@@ -1,0 +1,8 @@
+1.taskkill_java_exe.bat
+	- Xóa các java.exe đang chạy ngầm
+	
+2.rm_android_gradle.bat
+	- Xóa các thư mục .android, .gradle để làm mới
+
+3.taskkill_adb_exe.bat
+	- Xóa adb.exe đang chạy ngầm
