@@ -1,0 +1,3 @@
+**GIT:
+- "git clone" with different username account
+	+ git clone https://username@github.com/username/repository.git -> git clone https://kitajima2910@github.com/kitajima2910/ThisIsStoragePXH2910.git
