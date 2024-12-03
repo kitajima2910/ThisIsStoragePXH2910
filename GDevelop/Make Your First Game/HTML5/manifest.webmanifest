@@ -1,0 +1,12 @@
+{
+  "name": "Make Your First Game",
+  "short_name": "Make Your First Game",
+  "id": "com.pxh2910.MakeYourFirstGame",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
